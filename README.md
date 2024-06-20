@@ -46,7 +46,7 @@ With advancements in aerospace technology, optimizing engine performance is cruc
 - The average improvement in net thrust is calculated and compared to the original predictions.
 
 ## Results
-- The scenario analysis demonstrated an average improvement of 2.81% in net thrust by adjusting the top three features.
+- The scenario analysis demonstrated an average improvement of 56.2% in net thrust per feature adjustment.
 - The results highlighted the potential for performance optimization through targeted adjustments.
 
 ## Multidisciplinary Optimization Approach
